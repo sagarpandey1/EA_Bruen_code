@@ -1,0 +1,18 @@
+
+HelloWorld has:
+
+with MAIN routines:
+
+REGUALaR HelloWorld
+Redesigned with INTERFACE for Display & Message
+REDESIGN with FACTORY
+
+
+HelloWorldSpringX
+DI with XML file...
+
+HelloWorldSpringAX
+DI with Annotations with XML file...
+
+HelloWorldSpringAJ
+DI with Annotations with NO XML file...JAVAConfig

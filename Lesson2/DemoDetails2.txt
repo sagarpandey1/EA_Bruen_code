@@ -1,0 +1,49 @@
+JDBCDao
+
+JDBC example of an 'ORM'
+Manual binding of object to SQL
+
+
+
+HibernateSolo
+
+XML configuration of Entities
+Explicitly managed Session & Transaction
+
+
+
+HibernateAnnotations
+
+WITH Annotations INSTEAD of HBM files
+Explicitly managed Session & Transaction
+
+
+
+
+
+HibernateTransactions
+
+WITH Annotations INSTEAD of HBM files
+Explicitly managed Session 
+Spring Managed transactions
+
+
+
+
+HibernateSpringJPA
+
+No Hibernate session Factory - EntityManager Instead
+Spring Managed transactions
+
+
+
+
+HibernateSpringData
+
+ Use Repository Interfaces instead of DAO
+
+
+BasicMapping
+
+Authority, UserCredentials and Member example
+Demos Object to table mapping Annotations
